@@ -8,4 +8,4 @@ Este App foi desenvolvido em React Native, utilizando o Expo.
 
 
 #### Tela do mapa
-<img src="" alt="Happy">
+<img src="https://github.com/heroneto/nlw3-happy-mobile/blob/main/screenshots/Screenshot_1602804605.png?raw=true" alt="Happy">
